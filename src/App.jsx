@@ -2,6 +2,7 @@ import React from "react";
 import { Footer } from "./Footer";
 import { Content } from "./Content";
 import SideNav from "./SideNav";
+import { Resume } from "./Resume";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           </div>
         </div>
       </div>
+      <Resume />
       <Footer />
     </div>
   );
