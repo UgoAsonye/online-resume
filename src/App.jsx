@@ -11,12 +11,12 @@ function App() {
     //   <div className="container p-4">
     //     <Content />
     <div>
-      <div class="container text-center">
-        <div class="row align-items-start">
-          <div class="col col-lg-2">
+      <div className="container text-center">
+        <div className="row align-items-start">
+          <div className="col col-lg-2">
             <SideNav />
           </div>
-          <div class="col">
+          <div className="col">
             <Resume />
           </div>
           {/* <div class="col">

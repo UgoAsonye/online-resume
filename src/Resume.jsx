@@ -11,10 +11,21 @@ export function Resume() {
         <div className="col">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Card title</h5>
+              <h4 className="card-title">Skills</h4>
+              <p className="card-text">Languages: Go, Python, Java, Rust</p>
+              <p className="card-text">Databases/Tools: Git, APIsm Postgres</p>
+            </div>
+          </div>
+        </div>
+        <div className="col">
+          <div className="card">
+            <div className="card-body">
+              <h4 className="card-title">Coding Projects</h4>
               <p className="card-text">
-                This is a longer card with supporting text below as a natural lead-in to additional content. This
-                content is a little bit longer.
+                Superman Tracker: A fullstack application that allows signup and login. Users can report their
+                coordinates using their cellphone, and record a video or take a picture of Superman which is displayed
+                on the app's map as a pin. Pins are ordered using opacity from oldest (lower opacity) to newest (higher
+                opacity) and refreshed every day.
               </p>
             </div>
           </div>
@@ -22,10 +33,9 @@ export function Resume() {
         <div className="col">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Card title</h5>
+              <h4 className="card-title">Education</h4>
               <p className="card-text">
-                This is a longer card with supporting text below as a natural lead-in to additional content. This
-                content is a little bit longer.
+                Metropolis University | Bachelor of Science in Computer Science with a Minor in Journalism
               </p>
             </div>
           </div>
@@ -33,21 +43,9 @@ export function Resume() {
         <div className="col">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title">Card title</h5>
-              <p className="card-text">
-                This is a longer card with supporting text below as a natural lead-in to additional content.
-              </p>
-            </div>
-          </div>
-        </div>
-        <div className="col">
-          <div className="card">
-            <div className="card-body">
-              <h5 className="card-title">Card title</h5>
-              <p className="card-text">
-                This is a longer card with supporting text below as a natural lead-in to additional content. This
-                content is a little bit longer.
-              </p>
+              <h4 className="card-title">Job Experience</h4>
+              <p className="card-text">Junior Software Engineer | LexCorp February 2023 - Present</p>
+              <p className="card-text">Intern | Daily Planet September 2022 - February 2023</p>
             </div>
           </div>
         </div>
