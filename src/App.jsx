@@ -13,15 +13,18 @@ function App() {
     <div>
       <div class="container text-center">
         <div class="row align-items-start">
-          <div class="col">
+          <div class="col col-lg-2">
             <SideNav />
           </div>
           <div class="col">
-            <Content />
+            <Resume />
           </div>
+          {/* <div class="col">
+            <Resume />
+          </div> */}
         </div>
       </div>
-      <Resume />
+
       <Footer />
     </div>
   );
