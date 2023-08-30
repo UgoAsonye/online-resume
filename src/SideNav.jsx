@@ -28,7 +28,7 @@ function SideNav() {
                   data-bs-placement="right"
                   data-bs-original-title="Dashboard"
                 >
-                  <i class="bi bi-github fs-1"></i>
+                  <i class="bi bi-github fs-1 "></i>
                 </a>
               </li>
               <li>
