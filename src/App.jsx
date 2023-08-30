@@ -9,7 +9,7 @@ function App() {
     // <div>
     //   <SideNav />
     //   <div className="container p-4">
-    //     <Content />
+    //  <Content />
     <div>
       <div className="container text-center">
         <div className="row align-items-start">
@@ -22,9 +22,14 @@ function App() {
           {/* <div class="col">
             <Resume />
           </div> */}
+          <div class="container text-center">
+            <div class="row row-cols-2 row-cols"></div>
+            <div className="col">
+              <Content />
+            </div>
+          </div>
         </div>
       </div>
-
       <Footer />
     </div>
   );
