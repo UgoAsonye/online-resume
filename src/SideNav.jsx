@@ -4,13 +4,13 @@ function SideNav() {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col-sm-auto bg-light sticky-top">
-          <div className="d-flex flex-sm-column flex-row flex-nowrap bg-light align-items-center sticky-top">
+        <div className="col-sm-auto">
+          <div className="d-flex flex-sm-column flex-row flex-nowrap bg-light position-fixed">
             <ul className="nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto text-center align-items-center">
               <li class="nav-item">
                 <a
                   href="#"
-                  class="nav-link py-3 px-2"
+                  class="nav-link py-4 px-2"
                   title=""
                   data-bs-toggle="tooltip"
                   data-bs-placement="right"
@@ -22,7 +22,7 @@ function SideNav() {
               <li>
                 <a
                   href="#"
-                  class="nav-link py-3 px-2"
+                  class="nav-link py-4 px-2"
                   title=""
                   data-bs-toggle="tooltip"
                   data-bs-placement="right"
@@ -34,7 +34,7 @@ function SideNav() {
               <li>
                 <a
                   href="#"
-                  class="nav-link py-3 px-2"
+                  class="nav-link py-4 px-2"
                   title=""
                   data-bs-toggle="tooltip"
                   data-bs-placement="right"
@@ -46,7 +46,7 @@ function SideNav() {
               <li>
                 <a
                   href="#"
-                  class="nav-link py-3 px-2"
+                  class="nav-link py-4 px-2"
                   title=""
                   data-bs-toggle="tooltip"
                   data-bs-placement="right"
@@ -58,7 +58,7 @@ function SideNav() {
               <li>
                 <a
                   href="#"
-                  class="nav-link py-3 px-2"
+                  class="nav-link py-4 px-2"
                   title=""
                   data-bs-toggle="tooltip"
                   data-bs-placement="right"

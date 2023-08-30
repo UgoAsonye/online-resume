@@ -18,16 +18,17 @@ function App() {
           </div>
           <div className="col">
             <Resume />
+            <Content />
           </div>
           {/* <div class="col">
             <Resume />
           </div> */}
-          <div class="container text-center">
+          {/* <div class="container text-center">
             <div class="row row-cols-2 row-cols"></div>
-            <div className="col">
-              <Content />
-            </div>
-          </div>
+            <div className="col"> */}
+          {/* </div> */}
+          {/* </div> */}
+          {/* </div> */}
         </div>
       </div>
       <Footer />

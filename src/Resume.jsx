@@ -13,7 +13,7 @@ export function Resume() {
             <div className="card-body">
               <h4 className="card-title">Skills</h4>
               <p className="card-text">Languages: Go, Python, Java, Rust</p>
-              <p className="card-text">Databases/Tools: Git, APIsm Postgres</p>
+              <p className="card-text">Databases/Tools: Git, APIs, Postgres</p>
             </div>
           </div>
         </div>
