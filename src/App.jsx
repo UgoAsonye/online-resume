@@ -3,7 +3,7 @@ import { Footer } from "./Footer";
 import { Content } from "./Content";
 import SideNav from "./SideNav";
 import { Resume } from "./Resume";
-
+import { SecNav } from "./SecNav";
 function App() {
   return (
     // <div>
@@ -19,6 +19,9 @@ function App() {
           <div className="col">
             <Resume />
             <Content />
+          </div>
+          <div className="col">
+            <SecNav />
           </div>
           {/* <div class="col">
             <Resume />
