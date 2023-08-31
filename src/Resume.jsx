@@ -11,7 +11,7 @@ export function Resume() {
         <div className="col">
           <div className="card">
             <div className="card-body">
-              <h4 className="card-title">Skills</h4>
+              <h4 className="card-title fw-bold text-decoration-underline">Skills</h4>
               <p className="card-text">Languages: Go, Python, Java, Rust</p>
               <p className="card-text">Databases/Tools: Git, APIs, Postgres</p>
             </div>
@@ -20,7 +20,7 @@ export function Resume() {
         <div className="col">
           <div className="card">
             <div className="card-body">
-              <h4 className="card-title">Coding Projects</h4>
+              <h4 className="card-title fw-bold text-decoration-underline">Coding Projects</h4>
               <p className="card-text">
                 Superman Tracker: A fullstack application that allows signup and login. Users can report their
                 coordinates using their cellphone, and record a video or take a picture of Superman which is displayed
@@ -33,7 +33,7 @@ export function Resume() {
         <div className="col">
           <div className="card">
             <div className="card-body">
-              <h4 className="card-title">Education</h4>
+              <h4 className="card-title fw-bold text-decoration-underline">Education</h4>
               <p className="card-text">
                 Metropolis University | Bachelor of Science in Computer Science with a Minor in Journalism
               </p>
@@ -43,7 +43,7 @@ export function Resume() {
         <div className="col">
           <div className="card">
             <div className="card-body">
-              <h4 className="card-title">Job Experience</h4>
+              <h4 className="card-title fw-bold text-decoration-underline">Job Experience</h4>
               <p className="card-text">Junior Software Engineer | LexCorp February 2023 - Present</p>
               <p className="card-text">Intern | Daily Planet September 2022 - February 2023</p>
             </div>

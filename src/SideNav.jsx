@@ -4,7 +4,7 @@ function SideNav() {
   return (
     <div className="container-fluid">
       <div className="row">
-        <div className="col-sm-auto">
+        <div className="col-sm-auto ">
           <div className="d-flex flex-sm-column flex-row flex-nowrap bg-light position-fixed">
             <ul className="nav nav-pills nav-flush flex-sm-column flex-row flex-nowrap mb-auto mx-auto text-center align-items-center">
               <li class="nav-item">
